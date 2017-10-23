@@ -8,3 +8,4 @@ XI RPL 5
 <br>
 https://github.com/neisyanovis/ATM/blob/master/atm%201.JPG
 <br>
+https://github.com/neisyanovis/ATM/blob/master/atm%202.JPG
